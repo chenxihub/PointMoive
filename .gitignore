@@ -62,3 +62,6 @@ typings/
 
 # System
 .DS_Store
+
+# System
+.idea
