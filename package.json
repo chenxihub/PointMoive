@@ -1,0 +1,24 @@
+{
+  "name": "pointmoive",
+  "version": "1.0.0",
+  "description": "电影预告",
+  "main": "server/index.js",
+  "dependencies": {
+    "koa": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joexchen/PointMoive.git"
+  },
+  "author": "joe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joexchen/PointMoive/issues"
+  },
+  "homepage": "https://github.com/joexchen/PointMoive#readme"
+}
